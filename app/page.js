@@ -12,7 +12,7 @@ export default function Home() {
           href="/login"
           className="px-6 py-3 bg-indigo-600 text-white font-semibold rounded-lg shadow hover:bg-indigo-700"
         >
-          LoginTestingPurpose
+          Login
         </Link>
 
         <Link
