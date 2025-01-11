@@ -1,0 +1,10 @@
+{"level":"info","message":"Starting request processing.","timestamp":"2025-01-08 08:36:08"}
+{"level":"info","message":"Request successfully logged by Morgan.","timestamp":"2025-01-08 08:36:08"}
+{"email":"rajan@gmail.com","level":"info","message":"Request body parsed successfully:","password":"12345","timestamp":"2025-01-08 08:36:08"}
+{"level":"info","message":"Searching for user with email: rajan@gmail.com","timestamp":"2025-01-08 08:36:08"}
+{"level":"info","message":"User logged in successfully: rajan@gmail.com","timestamp":"2025-01-08 08:36:08"}
+{"level":"info","message":"Starting request processing.","timestamp":"2025-01-11 12:30:10"}
+{"level":"info","message":"Request successfully logged by Morgan.","timestamp":"2025-01-11 12:30:10"}
+{"email":"dhoni@gmail.com","level":"info","message":"Request body parsed successfully:","password":"Dhoni@123","timestamp":"2025-01-11 12:30:10"}
+{"level":"info","message":"Searching for user with email: dhoni@gmail.com","timestamp":"2025-01-11 12:30:10"}
+{"level":"info","message":"User logged in successfully: dhoni@gmail.com","timestamp":"2025-01-11 12:30:10"}
